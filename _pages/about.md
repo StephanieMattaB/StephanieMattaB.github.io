@@ -25,6 +25,7 @@ latest_posts:
 ---
 # Stephanie **Matta Bobadilla**
 stephanie.mattab@gmail.com
+
 <span style="color:#555;">Decisions and Control Systems Department EECS</span>
 <span style="color:#555;">KTH Brinellvägen 8</span>
 <span style="color:#555;">10044, Stockholm</span>
