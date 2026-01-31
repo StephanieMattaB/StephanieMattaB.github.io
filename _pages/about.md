@@ -50,6 +50,8 @@ Alongside my studies, I have worked on energy systems optimization and system-le
 
 My professional objective is to contribute to the energy transition through technically rigorous work that bridges engineering analysis with real-world system and policy constraints.
 
+---
+
 ## Life Outside Work
 Beyond my academic pursuits, I enjoy mountain hiking, strength training and journaling.
 
