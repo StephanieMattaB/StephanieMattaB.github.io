@@ -42,3 +42,6 @@ I received my Bachelor’s degree in Sustainable Development Engineering in Mexi
 Throughout my Master’s studies, I have followed an international academic path across France, Spain, and Eastern Europe, working on both academic and industry-oriented projects. Alongside my studies, I have contributed to energy systems optimization and data-driven modeling projects, including applications of artificial intelligence to electricity markets, forecasting, energy trading, and decision-support tools.
 
 My professional objective is to contribute to the energy transition through technically rigorous work that supports system-level decisions in transmission and grid-integration contexts, within technology providers, system operators, or international energy institutions.
+
+## Life Outside Work
+Beyond my academic pursuits, I enjoy mountain hiking, strenght training and journaling.
