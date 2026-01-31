@@ -37,11 +37,15 @@ I am currently a Master’s candidate in Dynamics of Renewables-Based Power Syst
 
 ## Short Bio
 
-I received my Bachelor’s degree in Sustainable Development Engineering in Mexico, where I developed a strong foundation in large-scale energy projects and emerging power technologies. During my undergraduate studies, I participated in research on hybrid AC/DC grids and machine learning applications, including an academic research stay in China, where I worked on advanced control and fault prediction for LCC-HVDC systems.
+I received my Bachelor’s degree in Sustainable Development Engineering in Mexico, where I developed a strong foundation in large-scale energy projects and emerging power technologies. During my undergraduate studies, I engaged in research on HVDC systems and data-driven methods, including an academic research stay in China focused on advanced control and fault prediction in LCC-HVDC systems.
 
-Throughout my Master’s studies, I have followed an international academic path across France, Spain, and Eastern Europe, working on both academic and industry-oriented projects. Alongside my studies, I have contributed to energy systems optimization and data-driven modeling projects, including applications of artificial intelligence to electricity markets, forecasting, energy trading, and decision-support tools.
+I have gained industry exposure through internships and applied projects in the energy and infrastructure sectors, including work with bp, Enel Green Power, and industrial R&D teams at electricity suppliers.
 
-My professional objective is to contribute to the energy transition through technically rigorous work that supports system-level decisions in transmission and grid-integration contexts, within technology providers, system operators, or international energy institutions.
+From 2023 to 2026, I have pursued an international academic path across China, France, Spain, and Eastern Europe, working on both academic and industry-oriented projects. My Master’s dissertation, “A Game-Theoretic Approach to Voltage Procurement,” is scheduled for defense in September 2026. In Spring 2026, I conducted research as a visiting scholar at KTH Royal Institute of Technology.
+
+Alongside my studies, I have worked on energy systems optimization and system-level modeling, with applications to electricity markets, forecasting, energy trading, and decision-support tools for power system operation.
+
+My professional objective is to contribute and share knowledge to the energy transition through technically rigorous work that supports system-level decision-making.
 
 ## Life Outside Work
 Beyond my academic pursuits, I enjoy mountain hiking, strenght training and journaling.
