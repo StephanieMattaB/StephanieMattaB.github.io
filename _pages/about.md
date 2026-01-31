@@ -27,12 +27,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Master’s student in Dynamics of Renewables-Based Power Systems (DREAM), an Erasmus Mundus joint programme focused on the analysis, control, and planning of future low-carbon power systems dominated by power electronics.
+I am currently a Master’s candidate in Dynamics of Renewables-Based Power Systems (DREAM), an Erasmus Mundus joint programme focused on the analysis, control, and planning of future low-carbon power systems dominated by power electronics.
 
-My academic work lies at the intersection of power systems, power electronics, and control, with a particular interest in converter-dominated grids, HVDC systems, grid-forming technologies, and transmission-level planning under technical and regulatory constraints. I am especially motivated by problems that connect mathematical modeling and system dynamics with real-world implementation and strategic decision-making in the energy transition.
+ My work sits at the intersection of electrical power systems and mathematical optimization, with a focus on renewable energy integration, grid operation, and system-level decision-making, applying science and engineering to address economic and policy challenges for a clean and intelligent energy transition. 
 
-I received my Bachelor’s degree in Sustainable Development Engineering in Mexico, where I developed a strong foundation in electrical engineering applied to energy systems. During my undergraduate studies, I collaborated on research related to renewable integration and power system control, including an academic research stay in China, where I worked on topics related to advanced control and fault prediction in electrical systems.
+## Short Bio
 
-Throughout my master’s studies, I have pursued an internationally oriented path, studying and conducting research across France, Spain, and Eastern Europe, and engaging with both academic and industry-driven projects. Alongside my studies, I have worked on energy systems optimization and data-driven modeling, including projects related to electricity markets, forecasting, and decision-support tools for power system operation.
+I received my Bachelor’s degree in Sustainable Development Engineering in Mexico, where I developed a strong foundation in large-scale energy projects and emerging power technologies. During my undergraduate studies, I participated in research on hybrid AC/DC grids and machine learning applications, including an academic research stay in China, where I worked on advanced control and fault prediction for LCC-HVDC systems.
 
-My professional goal is to contribute to the design and transformation of future power systems at the transmission and system-integration level, ideally within system operators, technology providers, or international energy institutions. I am particularly interested in roles that combine technical depth, system-level thinking, and strategic impact.
+Throughout my master’s studies, I have followed an international academic path, studying and conducting research across France, Spain, and Eastern Europe, and engaging in both academic and industry-oriented projects. Alongside my studies, I have worked on energy systems optimization and data-driven modeling, including projects related to artificial intelligence in electricity markets, forecasting, and decision-support tools for power system operation.
+
+My professional objective is to contribute to the transformation of power systems from a technically rigorous and system-level perspective, particularly at the transmission and grid-integration level, within system operators, technology providers, or international energy institutions.
