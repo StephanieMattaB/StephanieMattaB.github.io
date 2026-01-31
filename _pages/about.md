@@ -5,14 +5,10 @@ permalink: /
 subtitle: Researcher & Power Systems Engineer
 
 profile:
-  align: right
+  align: left
   image: prof_pic.JPG
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Decisions and Control Systems Department EECS</p>
-    <p>KTH Brinellvägen 8</p>
-    <p>10044, Stockholm</p>
-    <p>Sweden</p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,6 +25,10 @@ latest_posts:
 ---
 # Stephanie Matta Bobadilla
 stephanie.mattab@gmail.com
+    <p>Decisions and Control Systems Department EECS</p>
+    <p>KTH Brinellvägen 8</p>
+    <p>10044, Stockholm</p>
+    <p>Sweden</p>
 
 ## About Me
 I am currently a Master’s candidate in Dynamics of Renewables-Based Power Systems, a joint programme focused on the analysis, control, and planning of future low-carbon power systems dominated by power electronics.
