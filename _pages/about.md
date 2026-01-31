@@ -9,7 +9,8 @@ profile:
   image: prof_pic.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Brinellvägen 8</p>
+    <p>Decisions and Control Systems Department EECS</p>
+    <p>KTH Brinellvägen 8</p>
     <p>10044, Stockholm</p>
     <p>Sweden</p>
 
@@ -26,7 +27,10 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+# Stephanie Matta Bobadilla
+stephanie.mattab@gmail.com
 
+## About Me
 I am currently a Master’s candidate in Dynamics of Renewables-Based Power Systems (DREAM), an Erasmus Mundus joint programme focused on the analysis, control, and planning of future low-carbon power systems dominated by power electronics.
 
  My work sits at the intersection of electrical power systems and mathematical optimization, with a focus on renewable energy integration, grid operation, and system-level decision-making, applying science and engineering to address economic and policy challenges for a clean and intelligent energy transition. 
