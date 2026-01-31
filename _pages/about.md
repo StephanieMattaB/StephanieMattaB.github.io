@@ -45,7 +45,7 @@ From 2023 to 2026, I have pursued an international academic path across China, F
 
 Alongside my studies, I have worked on energy systems optimization and system-level modeling, with applications to electricity markets, forecasting, energy trading, and decision-support tools for power system operation.
 
-My professional objective is to contribute and share knowledge to the energy transition through technically rigorous work that can support strategies.
+My professional objective is to contribute to the energy transition through technically rigorous work that bridges engineering analysis with real-world system and policy constraints.
 
 ## Life Outside Work
-Beyond my academic pursuits, I enjoy mountain hiking, strenght training and journaling.
+Beyond my academic pursuits, I enjoy mountain hiking, strength training and journaling.
