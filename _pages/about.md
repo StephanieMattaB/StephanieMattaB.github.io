@@ -52,3 +52,32 @@ My professional objective is to contribute to the energy transition through tech
 
 ## Life Outside Work
 Beyond my academic pursuits, I enjoy mountain hiking, strength training and journaling.
+
+<div class="row">
+  <div class="col-sm-6 mt-3">
+    {% include figure.html path="assets/img/wind.jpg"
+      class="img-fluid rounded z-depth-1"
+      caption="Wind farm — renewables and field context." %}
+  </div>
+
+  <div class="col-sm-6 mt-3">
+    {% include figure.html path="assets/img/hiking.PNG"
+      class="img-fluid rounded z-depth-1"
+      caption="Hiking — exploration and endurance." %}
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6 mt-3">
+    {% include figure.html path="assets/img/viaferrata.JPG"
+      class="img-fluid rounded z-depth-1"
+      caption="Via ferrata — focus under exposure (ETH style)." %}
+  </div>
+
+  <div class="col-sm-6 mt-3">
+    {% include figure.html path="assets/img/tgd.jpg"
+      class="img-fluid rounded z-depth-1"
+      caption="Three Gorges Dam — large-scale energy infrastructure." %}
+  </div>
+</div>
+
