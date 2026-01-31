@@ -25,16 +25,18 @@ latest_posts:
 ---
 # Stephanie Matta Bobadilla
 stephanie.mattab@gmail.com
-    <p>Decisions and Control Systems Department EECS</p>
-    <p>KTH Brinellvägen 8</p>
-    <p>10044, Stockholm</p>
-    <p>Sweden</p>
+    Decisions and Control Systems Department EECS
+    KTH Brinellvägen 8
+    10044, Stockholm
+    Sweden
 
 ## About Me
 I am currently a Master’s candidate in Dynamics of Renewables-Based Power Systems, a joint programme focused on the analysis, control, and planning of future low-carbon power systems dominated by power electronics.
 
 My work sits at the intersection of electrical power systems and mathematical optimization, with a focus on renewable energy integration, grid operation, and system-level decision-making, applying science and engineering to address economic and policy challenges for a clean and intelligent energy transition. 
 
+
+---
 ## Short Bio
 
 I received my Bachelor’s degree in Sustainable Development Engineering in Mexico, where I developed a strong foundation in large-scale energy projects and power technologies. During my undergraduate studies, I engaged in research on HVDC systems and data-driven methods, including an academic research stay in China.
