@@ -23,12 +23,12 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-# Stephanie Matta Bobadilla
-stephanie.mattab@gmail.com
-    Decisions and Control Systems Department EECS
-    KTH Brinellvägen 8
-    10044, Stockholm
-    Sweden
+# Stephanie **Matta Bobadilla**
+###stephanie.mattab@gmail.com
+<p style="color:var(--global-text-color-light);">Decisions and Control Systems Department EECS
+KTH Brinellvägen 8
+10044, Stockholm
+Sweden</span>
 
 ## About Me
 I am currently a Master’s candidate in Dynamics of Renewables-Based Power Systems, a joint programme focused on the analysis, control, and planning of future low-carbon power systems dominated by power electronics.
