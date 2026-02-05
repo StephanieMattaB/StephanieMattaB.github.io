@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Wind Type 3 DFIG Turbine
-description: Mathematical Modeling & Control 
+title: Heat & Power Cogeneration Sizing
+description: Siemens Energy Collaboration  
 img: assets/img/1.jpg
 importance: 3
 category: fun
