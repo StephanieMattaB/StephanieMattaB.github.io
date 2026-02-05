@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
+title: Wind Type 3 DFIG Turbine
+description: Mathematical Modeling & Control
 img: assets/img/9.jpg
 importance: 2
 category: work
