@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Small-Signal Stability Analysis and Mode Flagg for Generator Replacement Studies
+description: STAMP Toolbox CITCEA UPC
 img: assets/img/12.jpg
 importance: 1
 category: work
