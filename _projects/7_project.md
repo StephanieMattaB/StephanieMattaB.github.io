@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 7
-description: with background image
+title: DER Allocation Load Flow Enhancement
+description: MV Network Studies, NEPLAN Simulated
 img: assets/img/4.jpg
 importance: 1
 category: work
