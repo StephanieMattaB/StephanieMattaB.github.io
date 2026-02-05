@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: DC Microgrid | Steady State Analysis
+description: Time-Series Generation and Load Profile Simulation
 img:
 importance: 3
 category: fun
