@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Decarbonizing heavy fleet of DANONE
+description: Compressed Natural Gas Feasibility Studies
 img:
 importance: 4
 category: fun
