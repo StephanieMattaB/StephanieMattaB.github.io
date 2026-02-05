@@ -3,8 +3,8 @@ layout: page
 title: DC Microgrid | Steady State Analysis
 description: Time-Series Generation and Load Profile Simulation
 img:
-importance: 3
-category: fun
+importance: 2
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
