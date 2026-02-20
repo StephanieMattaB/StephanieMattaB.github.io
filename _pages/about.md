@@ -19,15 +19,15 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 # Stephanie **Matta Bobadilla**
 stephanie.mattab@gmail.com
 
-<span style="color:#555;">Decisions and Control Systems Department EECS</span>
-<span style="color:#555;">KTH Brinellvägen 8</span>
+<span style="color:#555;">(Currently) Decisions and Control Systems Department EECS</span>
+<span style="color:#555;">KTH Malvinas vag 10</span>
 <span style="color:#555;">10044, Stockholm</span>
 <span style="color:#555;">Sweden</span>
 
