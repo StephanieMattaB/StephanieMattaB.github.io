@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher & Power Systems Engineer
+subtitle: Control & Power Systems Engineer
 
 profile:
   align: left
@@ -44,7 +44,7 @@ I received my Bachelor’s degree in Sustainable Development Engineering in Mexi
 
 I have gained industry exposure through internships and collaborations in the energy and infrastructure sectors, including work with bp, Enel Green Power, and industrial R&D teams at electricity suppliers.
 
-From 2023 to 2026, I have pursued an international academic path across China, France, Spain, and Eastern Europe, working on both academic and industry-oriented projects. My Master’s dissertation, “A Game-Theoretic Approach to Voltage Procurement,” is scheduled for defense in September 2026. In Spring 2026, I conducted research as a visiting scholar at KTH Royal Institute of Technology.
+From 2023 to 2026, I have pursued an international academic path across China, France, Spain, and Eastern Europe, working on both academic and industry-oriented projects. My Master’s dissertation, “A Game-Theoretic Approach to Voltage Procurement,” is scheduled for defense in August 2026. This Spring 2026, I am conducting research as a visiting student at KTH Royal Institute of Technology.
 
 Alongside my studies, I have worked on energy systems optimization and system-level modeling, with applications to electricity markets, forecasting, energy trading, and decision-support tools for power system operation.
 
