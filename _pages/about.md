@@ -52,9 +52,6 @@ My professional objective is to contribute to the energy transition through tech
 
 
 ---
-## (A selection of the projects and collaborations referenced above is documented in the Projects tab, feel free to explore!)
-
----
 
 ## Life Outside Work
 Beyond my academic pursuits, I enjoy mountain hiking, strength training and journaling.
@@ -76,4 +73,10 @@ Beyond my academic pursuits, I enjoy mountain hiking, strength training and jour
     {% include figure.liquid path="assets/img/tgd.jpg" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
+
+
+---
+## Feel free to explore! 
+**A selection of the projects and collaborations referenced above is documented in the Projects tab.
+
 
