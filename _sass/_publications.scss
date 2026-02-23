@@ -185,4 +185,10 @@
 .citation,
 .citation-number {
   color: var(--global-theme-color);
+
+}
+
+
+  .publications ol.bibliography li .abbr abbr {
+  color: #ffffff !important;
 }
