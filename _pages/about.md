@@ -50,6 +50,10 @@ Alongside my studies, I have worked on energy systems optimization and system-le
 
 My professional objective is to contribute to the energy transition through technically rigorous work that bridges engineering analysis with real-world system and policy constraints.
 
+
+---
+## (A selection of the projects and collaborations referenced above is documented in the Projects tab, feel free to explore!)
+
 ---
 
 ## Life Outside Work
