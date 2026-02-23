@@ -1,21 +1,17 @@
-"HVDC":
-  color: "#00369f"
-"DC Microgrid":
-  color: "#00369f"
-"VSC Control":
-  color: "#00369f"
 
 "Stability":
-  color: "#009f36"
+  color: "#0e7490"
 "Network Studies":
   color: "#0e7490"
   
 "Optimization + ML":
   color: "#009f36"
+"Optimization":
+  color: "#009f36"
 "Data Science":
-  color: "#7c3aed"
+  color: "#009f36"
   
 "Resilience":
-  color: "#009f36"
+  color: "#b45309"
 "Tech Sizing":
   color: "#b45309"
