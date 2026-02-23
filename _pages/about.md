@@ -42,7 +42,7 @@ My work sits at the intersection of electrical power systems and mathematical op
 
 I received my Bachelor’s degree in Sustainable Development Engineering in Mexico, where I developed a strong foundation in large-scale energy projects and power technologies. During my undergraduate studies, I engaged in research on HVDC systems and data-driven methods, including an academic research stay in China.
 
-I have gained industry exposure through internships and collaborations in the energy and infrastructure sectors, including work with bp (British Petroleum) Enel Green Power, and industrial R&D teams at electricity suppliers.
+I have gained industry exposure through internships and collaborations in the energy and infrastructure sectors, including work with bp (British Petroleum), Enel Green Power, and industrial R&D teams at electricity suppliers.
 
 From 2023 to 2026, I have pursued an international academic path across China, France, Spain, and Romania, working on both academic and industry-oriented projects. My Master’s dissertation, “A Game-Theoretic Approach to Voltage Procurement,” is scheduled for defense in August 2026. This Spring 2026, I am conducting research as a visiting student at KTH Royal Institute of Technology.
 
