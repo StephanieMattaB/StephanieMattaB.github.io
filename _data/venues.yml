@@ -1,9 +1,21 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"HVDC":
+  color: "#00369f"
+"DC Microgrid":
+  color: "#00369f"
+"VSC Control":
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
+"Stability":
   color: "#009f36"
+"Network Studies":
+  color: "#0e7490"
+  
+"Optimization + ML":
+  color: "#009f36"
+"Data Science":
+  color: "#7c3aed"
+  
+"Resilience":
+  color: "#009f36"
+"Tech Sizing":
+  color: "#b45309"
