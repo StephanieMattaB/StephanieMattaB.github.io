@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Projects
-Here a short selection of my projects that best represents my trayectory.
+description: Here a short selection of my projects that best represents my trayectory.
 nav: true
 nav_order: 2
 ---
