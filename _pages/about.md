@@ -48,6 +48,9 @@ From 2023 to 2026, I have pursued an international academic path across China, F
 
 Alongside my studies, I have worked on energy systems optimization and system-level modeling, with applications to electricity markets, forecasting, energy trading, and decision-support tools for power system operation.
 
+
+---
+### A selection of the projects and collaborations referenced above is documented in the Projects tab.
 ---
 
 ## Life Outside Work
@@ -72,7 +75,5 @@ Beyond my academic pursuits, I enjoy mountain hiking, strength training and jour
 </div>
 
 
----
-**A selection of the projects and collaborations referenced above is documented in the Projects tab.
 
 
