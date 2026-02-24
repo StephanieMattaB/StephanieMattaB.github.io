@@ -27,9 +27,8 @@ latest_posts:
 stephanie.mattab@gmail.com
 
 <span style="color:#555;">Thesis Researcher Student - Decisions and Control Systems Department</span>
-<span style="color:#555;">KTH School of Electrical Engineering and Computer Science | Malvinas väg 10 </span>
-<span style="color:#555;">SE-100 44, Stockholm, </span>
-<span style="color:#555;">Sweden</span>
+<span style="color:#555;">KTH Electrical Engineering & Computer Science | Malvinas väg 10 </span>
+<span style="color:#555;">10044, Stockholm, SE. </span>
 
 ## About Me
 Power systems engineer specializing in grid dynamics and the control of converter-dominated systems — the technical core of modern electrical infrastructure.
