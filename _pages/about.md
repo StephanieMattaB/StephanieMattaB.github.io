@@ -50,7 +50,7 @@ Alongside my studies, I have worked on energy systems optimization and system-le
 
 
 ---
--> A selection of the projects and collaborations referenced above is documented in the Projects tab.
+-> A selection of the projects and collaborations referenced above is documented in the Projects tab. <
 ---
 
 ## Life Outside Work
