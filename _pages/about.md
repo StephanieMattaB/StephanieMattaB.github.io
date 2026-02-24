@@ -26,9 +26,9 @@ latest_posts:
 # Stephanie **Matta Bobadilla**
 stephanie.mattab@gmail.com
 
-<span style="color:#555;">Thesis Researcher Student - Decisions and Control Systems Department EECS</span>
-<span style="color:#555;">KTH Malvinas vag 10</span>
-<span style="color:#555;">10044, Stockholm</span>
+<span style="color:#555;">Thesis Researcher Student - Decisions and Control Systems Department</span>
+<span style="color:#555;">KTH School of Electrical Engineering and Computer Science | Malvinas väg 10 </span>
+<span style="color:#555;">SE-100 44, Stockholm, </span>
 <span style="color:#555;">Sweden</span>
 
 ## About Me
