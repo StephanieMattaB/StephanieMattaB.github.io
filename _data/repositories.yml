@@ -4,5 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+- StephanieMattaB/DyNECT
 - StephanieMattaB/TimeSeries
+- StephanieMattaB/4-Terminal-HVDC-Droop-Control
 
