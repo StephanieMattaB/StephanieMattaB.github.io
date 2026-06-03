@@ -34,54 +34,40 @@ stephanie.mattab@gmail.com
 Power systems engineer specializing in grid dynamics and the control of converter-dominated systems — the technical core of modern electrical infrastructure.
 
 My work focuses on how large-scale networks behave under increasing shares of renewable generation: system modeling, stability analysis, and multi-terminal coordination, applied across both research and industry-oriented projects. Alongside the engineering, I have developed practical skills in scientific computing, data-driven methods, and optimization algorithms — tools I apply to system-level analysis and decision-support problems in power systems.
-
-<!-- ── Research Identity Venn Diagram ──────────────────────────────
-     Place your 3 PNGs in assets/img/ with these exact names:
-       assets/img/venn_physical.png   (green circle)
-       assets/img/venn_cyber.png      (purple circle)
-       assets/img/venn_control.png    (blue circle)
-     Then paste this block into _pages/about.md
-     ─────────────────────────────────────────────────────────────── -->
-
 <style>
 .venn-wrap { margin: 2.5rem 0 1.5rem; }
 .venn-svg  { display: block; max-width: 680px; margin: 0 auto; width: 100%; }
 #vg1, #vg2, #vg3 { transition: opacity .32s ease; cursor: pointer; }
 .venn-svg:has(#vg1:hover) #vg2,
-.venn-svg:has(#vg1:hover) #vg3 { opacity: .1; }
+.venn-svg:has(#vg1:hover) #vg3 { opacity: .08; }
 .venn-svg:has(#vg2:hover) #vg1,
-.venn-svg:has(#vg2:hover) #vg3 { opacity: .1; }
+.venn-svg:has(#vg2:hover) #vg3 { opacity: .08; }
 .venn-svg:has(#vg3:hover) #vg1,
-.venn-svg:has(#vg3:hover) #vg2 { opacity: .1; }
+.venn-svg:has(#vg3:hover) #vg2 { opacity: .08; }
 </style>
 
 <div class="venn-wrap">
-<svg class="venn-svg" viewBox="0 0 680 432"
-     xmlns="http://www.w3.org/2000/svg"
-     xmlns:xlink="http://www.w3.org/1999/xlink"
-     role="img">
+<svg class="venn-svg" viewBox="0 0 680 372"
+     xmlns="http://www.w3.org/2000/svg" role="img">
   <title>Research identity: Physical-Layer, Cyber-Layer, Decisions and Control-Layer</title>
-  <desc>Three overlapping circles representing research domains. Hover each circle to highlight it.</desc>
+  <desc>Three overlapping circles. Hover each to highlight.</desc>
 
-  <!-- Physical-Layer — green circle, top-left -->
   <g id="vg1">
     <image href="{{ '/assets/img/venn_physical.png' | relative_url }}"
-      x="0" y="0" width="374" height="212"
+      x="0" y="0" width="384.5" height="217.9"
       preserveAspectRatio="xMinYMin meet"/>
   </g>
 
-  <!-- Cyber-Layer — purple circle, top-right -->
   <g id="vg2">
     <image href="{{ '/assets/img/venn_cyber.png' | relative_url }}"
-      x="297" y="0" width="383" height="212"
-      preserveAspectRatio="xMaxYMin meet"/>
+      x="260.3" y="0" width="394.3" height="217.9"
+      preserveAspectRatio="xMinYMin meet"/>
   </g>
 
-  <!-- Decisions & Control-Layer — blue circle, bottom-centre -->
   <g id="vg3">
     <image href="{{ '/assets/img/venn_control.png' | relative_url }}"
-      x="197" y="121" width="279" height="251"
-      preserveAspectRatio="xMidYMin meet"/>
+      x="179.3" y="109.0" width="286.4" height="258.3"
+      preserveAspectRatio="xMinYMin meet"/>
   </g>
 
 </svg>
