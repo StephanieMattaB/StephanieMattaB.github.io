@@ -1,12 +1,24 @@
----
-layout: cv
-permalink: /cv/
+layout: page
 title: CV
+permalink: /cv/
 nav: true
-nav_order: 5
-cv_pdf: /assets/pdf/Stephanie_Matta_CV_2026.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
----
+nav_order: 3
+<div style="text-align:center; margin-bottom: 1.5rem;">
+  <a href="{{ '/assets/pdf/Stephanie_Matta_CV_2026.pdf' | relative_url }}"
+     target="_blank"
+     style="display:inline-block; padding: 8px 20px; border: 1px solid currentColor;
+            border-radius: 6px; font-size: 14px; text-decoration: none;">
+    ↓ Download PDF
+  </a>
+</div>
+<div style="width:100%; height:90vh; border: 0.5px solid #ccc; border-radius: 8px; overflow:hidden;">
+  <iframe
+    src="{{ '/assets/pdf/Stephanie_Matta_CV_2026.pdf' | relative_url }}"
+    width="100%"
+    height="100%"
+    style="border:none; display:block;">
+    <p>Your browser does not support embedded PDFs.
+       <a href="{{ '/assets/pdf/Stephanie_Matta_CV_2026.pdf' | relative_url }}">Download it here.</a>
+    </p>
+  </iframe>
+</div>
