@@ -66,7 +66,7 @@ My work focuses on how large-scale networks behave under increasing shares of re
 </g>
 <g id="vg3">
   <image href="{{ '/assets/img/venn_control.png' | relative_url }}"
-    x="153" y="128"
+    x="151" y="127"
     width="286.4" height="258.3"
     preserveAspectRatio="xMinYMin meet"/>
 </g>
