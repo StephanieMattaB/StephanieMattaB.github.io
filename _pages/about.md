@@ -60,13 +60,13 @@ My work focuses on how large-scale networks behave under increasing shares of re
 </g>
 <g id="vg2">
   <image href="{{ '/assets/img/venn_cyber.png' | relative_url }}"
-    x="245" y="0"
+    x="244" y="0"
     width="394.3" height="217.9"
     preserveAspectRatio="xMinYMin meet"/>
 </g>
 <g id="vg3">
   <image href="{{ '/assets/img/venn_control.png' | relative_url }}"
-    x="151" y="134"
+    x="153" y="128"
     width="286.4" height="258.3"
     preserveAspectRatio="xMinYMin meet"/>
 </g>
