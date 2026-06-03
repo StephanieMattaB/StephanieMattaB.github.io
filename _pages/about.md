@@ -51,24 +51,25 @@ My work focuses on how large-scale networks behave under increasing shares of re
      xmlns="http://www.w3.org/2000/svg" role="img">
   <title>Research identity: Physical-Layer, Cyber-Layer, Decisions and Control-Layer</title>
   <desc>Three overlapping circles. Hover each to highlight.</desc>
-
-  <g id="vg1">
-    <image href="{{ '/assets/img/venn_physical.png' | relative_url }}"
-      x="0" y="0" width="384.5" height="217.9"
-      preserveAspectRatio="xMinYMin meet"/>
-  </g>
-
-  <g id="vg2">
-    <image href="{{ '/assets/img/venn_cyber.png' | relative_url }}"
-      x="260.3" y="0" width="394.3" height="217.9"
-      preserveAspectRatio="xMinYMin meet"/>
-  </g>
-
-  <g id="vg3">
-    <image href="{{ '/assets/img/venn_control.png' | relative_url }}"
-      x="179.3" y="109.0" width="286.4" height="258.3"
-      preserveAspectRatio="xMinYMin meet"/>
-  </g>
+  
+<g id="vg1">
+  <image href="{{ '/assets/img/venn_physical.png' | relative_url }}"
+    x="-66" y="0"
+    width="384.5" height="217.9"
+    preserveAspectRatio="xMinYMin meet"/>
+</g>
+<g id="vg2">
+  <image href="{{ '/assets/img/venn_cyber.png' | relative_url }}"
+    x="245" y="0"
+    width="394.3" height="217.9"
+    preserveAspectRatio="xMinYMin meet"/>
+</g>
+<g id="vg3">
+  <image href="{{ '/assets/img/venn_control.png' | relative_url }}"
+    x="151" y="134"
+    width="286.4" height="258.3"
+    preserveAspectRatio="xMinYMin meet"/>
+</g>
 
 </svg>
 </div>
