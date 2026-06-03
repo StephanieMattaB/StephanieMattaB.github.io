@@ -1,8 +1,11 @@
+---
 layout: page
 title: CV
 permalink: /cv/
 nav: true
 nav_order: 3
+---
+
 <div style="text-align:center; margin-bottom: 1.5rem;">
   <a href="/assets/pdf/Stephanie_Matta_CV_2026.pdf"
      target="_blank"
@@ -10,6 +13,7 @@ nav_order: 3
     ↓ Download PDF
   </a>
 </div>
+
 <div style="width:100%; height:90vh; border: 0.5px solid #ccc; border-radius: 8px; overflow:hidden;">
   <iframe
     src="/assets/pdf/Stephanie_Matta_CV_2026.pdf"
