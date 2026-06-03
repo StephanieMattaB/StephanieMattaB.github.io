@@ -54,19 +54,19 @@ My work focuses on how large-scale networks behave under increasing shares of re
   
 <g id="vg1">
   <image href="{{ '/assets/img/venn_physical.png' | relative_url }}"
-    x="0" y="-7"
+    x="0" y="-2"
     width="384.5" height="217.9"
     preserveAspectRatio="xMinYMin meet"/>
 </g>
 <g id="vg2">
   <image href="{{ '/assets/img/venn_cyber.png' | relative_url }}"
-    x="310" y="-7"
+    x="310" y="-2"
     width="394.3" height="217.9"
     preserveAspectRatio="xMinYMin meet"/>
 </g>
 <g id="vg3">
   <image href="{{ '/assets/img/venn_control.png' | relative_url }}"
-    x="217" y="120" 
+    x="217" y="125" 
     width="286.4" height="258.3"
     preserveAspectRatio="xMinYMin meet"/>
 </g>
