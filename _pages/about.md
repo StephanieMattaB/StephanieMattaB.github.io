@@ -47,7 +47,7 @@ My work focuses on how large-scale networks behave under increasing shares of re
 </style>
 
 <div class="venn-wrap">
-<svg class="venn-svg" viewBox="0 0 680 372"
+<svg class="venn-svg" viewBox="0 -6 704 393"
      xmlns="http://www.w3.org/2000/svg" role="img">
   <title>Research identity: Physical-Layer, Cyber-Layer, Decisions and Control-Layer</title>
   <desc>Three overlapping circles. Hover each to highlight.</desc>
