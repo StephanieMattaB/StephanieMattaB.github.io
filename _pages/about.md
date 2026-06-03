@@ -31,9 +31,9 @@ stephanie.mattab@gmail.com
 <span style="color:#555;">10044, Stockholm, SE. </span>
 
 ## About Me
-Power systems engineer specializing in grid dynamics and the control of converter-dominated systems — the technical core of modern electrical infrastructure.
+Power systems engineer specializing in grid dynamics and the control of converter-dominated systems —> the technical core of modern electrical infrastructure.
 
-My work focuses on how large-scale networks behave under increasing shares of renewable generation: system modeling, stability analysis, and multi-terminal coordination, applied across both research and industry-oriented projects. Alongside the engineering, I have developed practical skills in scientific computing, data-driven methods, and optimization algorithms — tools I apply to system-level analysis and decision-support problems in power systems.
+My work focuses on how large-scale networks behave under increasing shares of renewable generation: system modeling, stability analysis, and multi-terminal coordination, applied across both research and industry-oriented projects. Alongside the engineering, I have developed practical skills in scientific computing, data-driven methods, and optimization algorithms, tools I apply to system-level analysis and decision-support challenges in power systems.
 <style>
 .venn-wrap { margin: 2.5rem 0 1.5rem; }
 .venn-svg  { display: block; max-width: 680px; margin: 0 auto; width: 100%; }
