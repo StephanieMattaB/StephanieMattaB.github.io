@@ -3,7 +3,7 @@ layout: page
 title: Field Notes
 permalink: /field-notes/
 description: Welcome to my journey!! A visual record of the places and experiences that shaped how I think about systems.
-nav: true
+nav: false
 nav_order: 5
 ---
 
