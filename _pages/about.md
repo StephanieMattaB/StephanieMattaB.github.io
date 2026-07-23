@@ -78,8 +78,10 @@ My work focuses on how large-scale networks behave under increasing shares of re
 </g>
 
 </svg>
--->
+
 </div>
+-->
+
 ---
 ## Short Bio
 
