@@ -36,7 +36,7 @@ Power systems engineer specializing in grid dynamics and the control of converte
 My work focuses on how large-scale networks behave under increasing shares of renewable generation: system modeling, stability analysis, and multi-terminal coordination, applied across both research and industry-oriented projects. Alongside the engineering, I have developed practical skills in scientific computing, data-driven methods, and optimization algorithms, tools I apply to system-level analysis and decision-support challenges in power systems.
 
 <video autoplay loop muted playsinline width="90%">
-  <source src="/assets/video/Research_vault.mp4" type="video/mp4">
+  <source src="/assets/video/Research_vault1.mp4" type="video/mp4">
 </video>
 
 
