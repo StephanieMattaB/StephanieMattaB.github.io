@@ -38,32 +38,4 @@
 @use "font-awesome/solid";
 @use "font-awesome/regular";
 
-/* --- Disable dark mode globally --- */
-:root {
-  color-scheme: light;
-}
-
-/* Override any dark-mode styles from Bootstrap/MDB/theme */
-@media (prefers-color-scheme: dark) {
-  html, body {
-    background-color: #ffffff !important;
-    color: #000000 !important;
-  }
-
-  a {
-    color: #0066cc !important;
-  }
-
-  h1, h2, h3, h4, h5, h6 {
-    color: #000000 !important;
-  }
-
-  /* Optional: fix cards, navbars, footers if needed */
-  .navbar,
-  .footer,
-  .card {
-    background-color: #ffffff !important;
-    color: #000000 !important;
-  }
-}
 
