@@ -1,0 +1,22 @@
+/* Completely disable dark mode */
+:root {
+  color-scheme: light;
+}
+
+/* Override any dark-mode media queries */
+@media (prefers-color-scheme: dark) {
+  html, body {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+  }
+
+  /* Fix links */
+  a {
+    color: #0066cc !important;
+  }
+
+  /* Fix headings */
+  h1, h2, h3, h4, h5, h6 {
+    color: #000000 !important;
+  }
+}
